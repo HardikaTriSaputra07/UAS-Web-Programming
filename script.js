@@ -1,0 +1,1 @@
+console.log("Website Perusahaan XYZ berjalan dengan baik.");
